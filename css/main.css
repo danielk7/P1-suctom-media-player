@@ -29,3 +29,9 @@ video, audio, .mejs-treehouse {
   display: block;
 
 }
+
+.mejs-controls .mejs-time-rail .mejs-time-loaded {
+  background: -ms-linear-gradient(top,rgba(44,124,145,0.8),rgba(78,183,212,0.8));
+  background: linear-gradient(rgba(255, 255, 255, 0.8),rgba(97, 97, 97, 0.8));
+  width: 0;
+}
