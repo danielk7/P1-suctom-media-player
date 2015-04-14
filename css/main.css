@@ -6,7 +6,7 @@
 
 body {
   background-image: url("https://dl.dropboxusercontent.com/u/47084122/_cdn/1638573.jpg");
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Arial', sans-serif;
   color: #384047;
 }
 
@@ -19,7 +19,7 @@ wrapper {
 }
 
 h1, h2 {
-  color: gray;
+  color: white;
   margin: 45px 0;
   text-align: center;
 }
