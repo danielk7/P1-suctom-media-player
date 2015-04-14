@@ -5,16 +5,16 @@
 }
 
 body {
-  background-color: gray;
+  background-image: url("https://dl.dropboxusercontent.com/u/47084122/_cdn/1638573.jpg");
   font-family: 'Nunito', sans-serif;
   color: #384047;
 }
 
-.wrapper {
-  max-width: 90%;
+wrapper {
+  max-width: 48%;
   margin: 10px auto;
   padding: 10px 20px;
-  background: #f4f7f8;
+  background: rgba(244, 247, 248, 0.14);
   border-radius: 8px;
 }
 
@@ -27,6 +27,7 @@ h1, h2 {
 video, audio, .mejs-treehouse {
   margin: 0 auto;
   display: block;
+  text-align: center;
 
 }
 
