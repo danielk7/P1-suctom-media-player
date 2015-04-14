@@ -6,12 +6,13 @@
 
 body {
   background-image: url("https://dl.dropboxusercontent.com/u/47084122/_cdn/1638573.jpg");
+  width: 100%;
   font-family: 'Arial', sans-serif;
   color: #384047;
 }
 
-wrapper {
-  max-width: 48%;
+.wrapper {
+  max-width: 55%;
   margin: 10px auto;
   padding: 10px 20px;
   background: rgba(244, 247, 248, 0.14);
